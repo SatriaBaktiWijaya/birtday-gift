@@ -420,7 +420,7 @@ const BirthdayMessagePage = ({ onNext }) => {
           className="px-10 py-3 bg-blue-600 dark:bg-blue-500 text-white font-semibold rounded-full shadow-lg shadow-blue-300 dark:shadow-blue-900 transition-all duration-300 hover:bg-blue-700 dark:hover:bg-blue-600 hover:scale-105 hover:shadow-xl active:scale-95 flex items-center gap-2 mt-4"
           style={{ fontFamily: "'Poppins', sans-serif" }}
         >
-          Our Memory 🎉<ChevronRight className="w-5 h-5" />
+          About you 🎉<ChevronRight className="w-5 h-5" />
         </button>
       </div>
     </div>
@@ -484,7 +484,7 @@ const MemoryPage = () => {
       id: 1,
       image: "/images/1.jpeg",
       caption: "",
-      description: "Even if we aren't together"
+      description: "Even if we aren't in a same place"
     },
     {
       id: 2,
